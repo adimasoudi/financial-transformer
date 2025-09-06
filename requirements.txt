@@ -1,9 +1,6 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import yfinance as yf
-import torch.nn as nn
-import math
-from sklearn.preprocessing import StandardScaler, MinMaxScaler
-import torch
-from torch.utils.data import TensorDataset, DataLoader
+numpy
+pandas
+matplotlib
+yfinance
+scikit-learn
+torch
